@@ -19,7 +19,7 @@ Each folder contains a complete case study with architecture diagrams, implement
 - Deployed VPC using **CloudFormation**.
 - Configured **NAT Gateway** for outbound internet access from private subnets.
 - Verified connectivity with an EC2 instance in private subnet.  
-👉 [View Project](./https://github.com/ryanluhi/aws-NAT-gateway)
+👉 [View Project](./https://github.com/ryanluhi/aws-NAT-gateway.git)
 
 ---
 
